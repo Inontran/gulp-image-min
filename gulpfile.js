@@ -32,4 +32,5 @@ gulp.task('clear-cache', function(){
 });
 
 gulp.task('default', gulp.parallel('image-min'));
+//sdfsdf
 	
